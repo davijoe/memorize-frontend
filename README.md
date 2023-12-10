@@ -3,17 +3,19 @@ Related group project : [PlaceholderOrganization/memorize-frontend](https://gith
 
 ## Resource Links
 **Backend**
-1) [Repository](https://github.com/davijoe/memorize-backend)
-2) [Deployed-Webapp-main](main-backend-memorize.azurewebsites.net)
-3) [Deployed-Webapp-staging](staging-backend-webapp.azurewebsites.net)
-4) [Deployed-Webapp-dev](dev-backend-memorize.azurewebsites.net)
+
+1) Repo: [davijoe/memorize-backend](https://github.com/davijoe/memorize-backend)
+2) Live: [Deployed-Webapp-main](main-backend-memorize.azurewebsites.net)
+3) Test: [Deployed-Webapp-staging](staging-backend-webapp.azurewebsites.net)
+4) Dev : [Deployed-Webapp-dev](dev-backend-memorize.azurewebsites.net)
    
 
 **Frontend**
-1) [Repository](https://github.com/davijoe/memorize-frontend)
-2) Live-site: [www.danviktor.dk](https://www.danviktor.dk)
-3) Pre-prod : [staging-test.danviktor.dk](https://staging-test.danviktor.dk)
-4) Development: [dev-test.danviktor.dk](https://dev-test.danviktor.dk)
+
+1) Repo: [davijoe/memorize-frontend](https://github.com/davijoe/memorize-frontend)
+2) Live: [www.danviktor.dk](https://www.danviktor.dk)
+3) Test: [staging-test.danviktor.dk](https://staging-test.danviktor.dk)
+4) Dev : [dev-test.danviktor.dk](https://dev-test.danviktor.dk)
 
 ### Database
 Created as a MySQL database running in a docker container a Linux VM on Azure
@@ -30,6 +32,3 @@ We use the 'main' branch as our released codebase. For new developments, we crea
  - Continuous Integration (CI) with GitHub Actions
  - Deployment with Azure Web App Service
  - Merging Staging into Master
-
-
-
